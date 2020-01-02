@@ -1,7 +1,8 @@
 #### RNA Bind-n-Seq (RBNS): Sequence and Structural Binding Specificity of RNA Binding Proteins
 
-timeline:
 
+
+Timeline:
 
 2020/01/02: download RBNS data from Encode project and upload [RBNS protocol]() to github
 
